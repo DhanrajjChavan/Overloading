@@ -3,7 +3,7 @@
 using namespace std;
 class Complex
 {
-    private: 
+    private:  
     int real, imag;
     public:
     Complex(int r=0, int i=0)
